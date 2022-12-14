@@ -7,3 +7,6 @@ It is very inersting topic that Git is one of the most important tool and python
 
 I'll make a progress everyday even it's small.
 Hope to read all contents within a month.
+
+2022-12-15
+- Create remote_test.py in remote repository via GitHub wwebpage
